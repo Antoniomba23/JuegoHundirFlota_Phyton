@@ -11,6 +11,11 @@ El objetivo del proyecto es demostrar el uso de conceptos fundamentales de progr
 - **Manejo de Excepciones**: Control de errores personalizados.
 - **Estructuras de Datos**: Listas bidimensionales y diccionarios.
 
+## 🎥 Demostración
+
+Puedes ver una demostración del juego en el siguiente video:
+[Ver Video de Demostración](Videodemostracion/HundirflotaVideo.mp4)
+
 ## 🚀 Características
 
 - **Arquitectura Cliente-Servidor**: Un servidor central gestiona la partida entre dos clientes.
@@ -53,6 +58,7 @@ Para iniciar una partida, necesitas abrir **3 terminales**:
 
 - `servidor.py`: Script del servidor que gestiona la lógica de conexión y retransmisión de mensajes.
 - `cliente.py`: Script del cliente que permite al usuario jugar e interactuar con el servidor.
+- `Juego.py`: Versión local del juego para dos jugadores en la misma terminal (Hot-seat).
 - `Tablero.py`: Módulo que contiene la clase `Tablero`, la lógica del juego y las excepciones personalizadas.
 
 ## 📝 Autor
